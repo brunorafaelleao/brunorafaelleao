@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu Github 😇💻
+## Olá, bem-vindo(a) ao meu Github 😇💻
 
 <!--
 **brunorafaelleao/brunorafaelleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
