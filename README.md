@@ -3,9 +3,9 @@
 #### 😎 Me chamo Bruno Leão, Tecnólogo em Análise e Desenvolvimento de Sistemas -->
 <h1 align="center">Olá, bem-vindo(a) ao meu GitHub 😇💻</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brunorafaelleao&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+</p> -->
 
 ---
 
