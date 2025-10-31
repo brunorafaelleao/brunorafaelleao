@@ -50,7 +50,7 @@ Atualmente atuo como **Chefe de Núcleo de Monitoramento e Análise de Informaç
 
 ### 📫 Onde me encontrar  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/brunoleao-sh82" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
